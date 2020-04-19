@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Peer graded assignment
 This repo is submission for the course project. It contains ```CodeBook.md``` file which has details on the script ```run_analysis.R``` and how it works. The final data is stored in ```data/resulting_data.txt``` file.
 
@@ -9,7 +9,3 @@ This repo is submission for the course project. It contains ```CodeBook.md``` fi
 
 ### Dataset
 [UCI Machine Learning Repository's Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-
-=======
-# gc-project
->>>>>>> 469b6f3e27c1c5484295b9d57df62c2d9c3c2dc2
